@@ -1,4 +1,4 @@
-JavaScript GameBoy Color Emulator
+gameboy.js
 =================================
 
 **Copyright (C) 2010 - 2016 Grant Galitz**
